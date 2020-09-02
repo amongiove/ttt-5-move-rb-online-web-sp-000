@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 board = [" "," "," "," "," "," "," "," "," "]
+=======
+board = [" "," "," "," "," "," "]
+>>>>>>> ce986316af77c879f93e036b626b8e4863b5cccf
 #codes how board will look
 def display_board(board)
   puts " #{board[0]} | #{board[1]} | #{board[2]} "
